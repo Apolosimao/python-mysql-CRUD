@@ -1,0 +1,27 @@
+[
+	{
+		"idVendas" : 1,
+		"nome_produto" : "coca_zero",
+		"valor" : 4
+	},
+	{
+		"idVendas" : 2,
+		"nome_produto" : "biscoito_polvilho",
+		"valor" : 5
+	},
+	{
+		"idVendas" : 3,
+		"nome_produto" : "paçoca",
+		"valor" : 2
+	},
+	{
+		"idVendas" : 4,
+		"nome_produto" : "salgadinho",
+		"valor" : 2
+	},
+	{
+		"idVendas" : 5,
+		"nome_produto" : "salgadinho",
+		"valor" : 2
+	}
+]
